@@ -73,7 +73,7 @@ lib/
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rahat8800/FlutterProductApp
    cd flutter_application_1
    ```
 
